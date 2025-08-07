@@ -1,0 +1,12 @@
+/* CRIAÇÃO DA CONSTANTE QUE REPRESENTA O NOME DO BANCO DE DADOS: */
+const database = 'BD3-Aula';
+
+/* CRIAÇÃO DA CONSTANTE QUE REPRESENTA O NOME DO COLEÇÃO DE DADOS: */
+const collection = 'BIBLIOTECA';
+
+/* DEFINIÇÃO DO BANCO DE DADOS A SER UTILIZADO, CASO NÃO EXISTA SERÁ CRIADO: */
+use(database);
+
+/* CRIA UMA COLEÇÃO DE DADOS */
+db.createCollection(collection);
+
