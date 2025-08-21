@@ -1,2 +1,2 @@
 # NoSql
-Feito para aulas de NoSql com o Professor Cristiano
+Repositório para armazenar os arquivos referentes as aulas de BD3, pelo Professor Cristiano
